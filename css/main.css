@@ -7,35 +7,40 @@ body{
     padding: 0;
 }
 /*3er DESAFIO:aumente la propiedad position=absolute*/
+/*4to DESAFIO:elimine position:absolute*/
 .caja{
     height: 200px;
     width: 200px;
-    position: absolute;
+    /*position: absolute;*/
 }
-/*3er DESAFIO:aumente las propiedades de lefth y top*/
+/*3er DESAFIO:aumente las propiedades de left y top*/
+/*4to DESAFIO:elimine el left y top*/
 #rosa{
     background-color:#EE3E64 ;
-    left: 0;
-    top: 0;
+    /*left: 0;
+    top: 0;*/
 }
 /*primer desafio: al id=azul le aumente position y left */
 /*3er DESAFIO:borre dos propiedades:position y left y puse right y top*/
+/*4to DESAFIO:elimine el right y top y otra vez deje de comentar la position:relative,left y top,position:ahora es absolute y aumentaron los pixeles*/
 #azul{
     background-color: #2B7DB9;
-    /*position: relative;
-    left: 200px;*/
-    right: 0;
-    top: 0;
+    position: absolute;
+    left: 200px;
+    /*right: 0;*/
+    top: 200px;
 }
 /*3er DESAFIO:aumente las propiedades de bottom y left*/
+/*4to DESAFIO:elimine el bottom y left*/
 #verde{
     background-color:#B7D84B;
-    bottom: 0;
-    left: 0;
+    /*bottom: 0;
+    left: 0;*/
 }
 /*3er DESAFIO:aumente el selector del id=amarillo*/
+/*4to DESAFIO:elimine el right y bottom*/
 #amarillo{
     background-color: #FAFF16;
-    right: 0;
-    bottom: 0;
+    /*right: 0;
+    bottom: 0;*/
 }
