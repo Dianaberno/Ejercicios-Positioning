@@ -13,8 +13,11 @@ body{
 #rosa{
     background-color:#EE3E64 ;
 }
+/*primer desafio: al id=azul le aumente position y left */
 #azul{
     background-color: #2B7DB9;
+    position: relative;
+    left: 200px;
 }
 #verde{
     background-color:#B7D84B;
