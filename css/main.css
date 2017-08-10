@@ -23,12 +23,13 @@ body{
 /*primer desafio: al id=azul le aumente position y left */
 /*3er DESAFIO:borre dos propiedades:position y left y puse right y top*/
 /*4to DESAFIO:elimine el right y top y otra vez deje de comentar la position:relative,left y top,position:ahora es absolute y aumentaron los pixeles*/
+/*5to DESAFIO:comente position,left y top*/
 #azul{
     background-color: #2B7DB9;
-    position: absolute;
-    left: 200px;
+    /*position: absolute;*/
+    /*left: 200px;*/
     /*right: 0;*/
-    top: 200px;
+    /*top: 200px;*/
 }
 /*3er DESAFIO:aumente las propiedades de bottom y left*/
 /*4to DESAFIO:elimine el bottom y left*/
